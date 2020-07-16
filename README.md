@@ -15,3 +15,5 @@
 11. [Frequency Domain Processing](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/BJ0JPmJkv)
 12. [Image Restoration](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/H1V1_VJ1v)
 13. [Image Registration](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/SkTje5HJw)
+14. [Color Image Processing](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/B1q1Aud1v)
+15. [Image Segmentation](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/r1MZSJ5yw)
