@@ -18,3 +18,5 @@
 14. [Color Image Processing](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/B1q1Aud1v)
 15. [Image Segmentation](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/r1MZSJ5yw)
 16. [Mathematical Morphology](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/SJTpoY0gv)
+17. [Object Representation and Description](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/B1IboyeGD)
+
