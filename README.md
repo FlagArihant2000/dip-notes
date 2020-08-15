@@ -1,5 +1,11 @@
 # Digital Image Processing
 
+These notes were made for the course "[Digital Image Processing](https://nptel.ac.in/courses/117/105/117105079/)", taught by Prof. Prabir Kumar Biswas through NPTEL initiative. The course mostly covers classical methods of image processing, involving image transforms, restoration, segmentation, pattern recognition, etc. Some of the techiques that are discussed are very fundamental and form the basis of many classical machine learning methods available to us.
+
+It would be helpful if the person is familiar with linear algebra, probability theory and statistics, multivariable calculus, integral transforms and partial differential equations. Digital Signal Processing will help in grasping the initial lectures, though it is not necessary. The course is mathematically intensive and would mostly benefit people who are interested in fundamental research.
+
+**Note**: Please do not make these notes as the sole reference for Digital Image Processing. They just cover important concepts, keypoints and intuition of a concept, wherever required. A good reference book would be "[Digital Image Processing by Gonzalez and Woods](http://sdeuoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez%2C%20R.%20Woods-ilovepdf-compressed.pdf)".
+
 ## Table of Contents
 
 1. [Introduction, Sampling and Quantization](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/Skh8dzto8)
@@ -19,4 +25,8 @@
 15. [Image Segmentation](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/r1MZSJ5yw)
 16. [Mathematical Morphology](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/SJTpoY0gv)
 17. [Object Representation and Description](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/B1IboyeGD)
+
+**Note:** It would be nice if the user notifies me in case they find an error, so I can make the required changes quickly. These notes haven't been officially publised on HackMD and will be done so later on.
+
+Thank You!
 
