@@ -26,7 +26,7 @@ It would be helpful if the person is familiar with linear algebra, probability t
 16. [Mathematical Morphology](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/SJTpoY0gv)
 17. [Object Representation and Description](https://hackmd.io/@upqiNexgTTeDKZfa7zKRIw/B1IboyeGD)
 
-**Note:** It would be nice if the user notifies me in case they find an error, so I can make the required changes quickly. These notes haven't been officially publised on HackMD and will be done so later on.
+**Note:** It would be nice if the user notifies me in case they find an error, so I can make the required changes quickly. 
 
 Thank You!
 
